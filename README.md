@@ -1,4 +1,4 @@
-# hg-mux
+# gomux
 
     基于gorilla/mux构建
 
