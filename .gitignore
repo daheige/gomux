@@ -1,0 +1,9 @@
+logs/*
+*.log
+.idea/*
+hg-mux
+vendor/*
+pprof.cpu
+pprof.heap
+pprof.trace
+pprof.cpu*
